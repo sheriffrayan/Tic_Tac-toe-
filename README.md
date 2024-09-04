@@ -12,4 +12,3 @@
 
 
 <p> Languages Used: HTML, CSS, & JavaScript </p>
-<h2>Preview: </h2>
